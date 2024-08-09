@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <b><em>BidenJr</em></b></h1>
 
 <div align="center">
-<img align="center" style="width: 100%; height: auto;" src="./biden.jpg">
+<img align="center" style="width: 40%; height: auto;" src="./biden.jpg">
 </div>
 
 # 💫About Me :
