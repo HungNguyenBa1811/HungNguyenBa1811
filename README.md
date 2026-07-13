@@ -71,7 +71,7 @@
 
 <div align="center">
   <a href="https://www.pixiv.net/en/users/42894990">
-    <img src="https://pixiv.cat/142781230.png" alt="Artwork by ResCat" width="100%" />
+    <img src="./assets/mari.webp" alt="Artwork by ResCat" width="100%" />
   </a>
   <p>Art by <a href="https://www.pixiv.net/en/users/42894990">ResCat</a></p>
 </div>
