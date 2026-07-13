@@ -1,10 +1,8 @@
 <div align="center">
-  <a href="https://github.com/kyechan99/capsule-render">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=190&section=header" alt="Orange wave banner" width="100%" />
-  </a>
+  <img src="./assets/banner.svg" alt="Nguyen Ba Hung profile banner" width="100%" />
 </div>
 
-<h2 align="center">== 01 · USER PROFILE ==</h2>
+<h2 align="center">==== 01 · USER PROFILE ====</h2>
 
 <div align="center">
   <a href="https://github.com/FajarKim/github-readme-profile">
@@ -18,12 +16,13 @@
   </a>
 </div>
 
-<h2 align="center">== 02 · TECHNICAL SKILLS ==</h2>
+<h2 align="center">==== 02 · TECHNICAL SKILLS ====</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-0B0B0B?style=for-the-badge&logo=c&logoColor=FF7A00" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-0B0B0B?style=for-the-badge&logo=cplusplus&logoColor=FF7A00" alt="C++" />
   <img src="https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=FF7A00" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-0B0B0B?style=for-the-badge&logo=openjdk&logoColor=FF7A00" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=FF7A00" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=for-the-badge&logo=typescript&logoColor=FF7A00" alt="TypeScript" />
   <br />
@@ -36,6 +35,7 @@
   <img src="https://img.shields.io/badge/Node.js-0B0B0B?style=for-the-badge&logo=nodedotjs&logoColor=FF7A00" alt="Node.js" />
   <img src="https://img.shields.io/badge/Firebase-0B0B0B?style=for-the-badge&logo=firebase&logoColor=FF7A00" alt="Firebase" />
   <img src="https://img.shields.io/badge/MySQL-0B0B0B?style=for-the-badge&logo=mysql&logoColor=FF7A00" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Maven-0B0B0B?style=for-the-badge&logo=apachemaven&logoColor=FF7A00" alt="Maven" />
   <img src="https://img.shields.io/badge/Docker-0B0B0B?style=for-the-badge&logo=docker&logoColor=FF7A00" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-0B0B0B?style=for-the-badge&logo=vercel&logoColor=FF7A00" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-0B0B0B?style=for-the-badge&logo=netlify&logoColor=FF7A00" alt="Netlify" />
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/L%C3%96VE2D-0B0B0B?style=for-the-badge" alt="LÖVE2D" />
 </div>
 
-<h2 align="center">== 03 · GITHUB ACTIVITY ==</h2>
+<h2 align="center">==== 03 · GITHUB ACTIVITY ====</h2>
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -57,7 +57,7 @@
   </a>
 </div>
 
-<h2 align="center">== 04 · CONTACT ==</h2>
+<h2 align="center">==== 04 · CONTACT ====</h2>
 
 <div align="center">
   <a href="mailto:hungba1811@gmail.com"><img src="https://img.shields.io/badge/SOCIAL-EMAIL-FF7A00?style=for-the-badge&labelColor=0B0B0B" alt="Email" /></a>
@@ -66,10 +66,12 @@
   <a href="https://www.instagram.com/cst.hungnguyn181/"><img src="https://img.shields.io/badge/SOCIAL-INSTAGRAM-FF7A00?style=for-the-badge&labelColor=0B0B0B" alt="Instagram" /></a>
 </div>
 
-<!-- BOTTOM BANNER PLACEHOLDER: replace the image URL when your banner is ready. -->
+<br />
+<br />
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180" alt="" width="100%" />
-  <p>
-    <!-- Add your banner description here. -->
-  </p>
+  <a href="https://www.pixiv.net/en/users/42894990">
+    <img src="https://pixiv.cat/142781230.png" alt="Artwork by ResCat" width="100%" />
+  </a>
+  <p>Art by <a href="https://www.pixiv.net/en/users/42894990">ResCat</a></p>
 </div>
